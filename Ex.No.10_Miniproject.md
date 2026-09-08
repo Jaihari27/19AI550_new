@@ -71,9 +71,7 @@ public class PlayerMovement : MonoBehaviour
 
 ```
 ### Output:
-<img width="833" height="357" alt="image" src="https://github.com/user-attachments/assets/a7a93d08-342e-48db-9dd1-07888e41999a" />
-<img width="836" height="430" alt="image" src="https://github.com/user-attachments/assets/6c48f9ab-c486-4559-9ba4-926bdefe2b0b" />
-<img width="475" height="215" alt="image" src="https://github.com/user-attachments/assets/33814ffe-e3ea-458e-b721-c18c34231ad3" />
+
 
 ### Result:
 Thus the game was developed using Unity and adopted _-----------AI technology.
